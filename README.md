@@ -11,8 +11,7 @@ and train DevOps Engineers.
 - 📫 Reach me here - dinma4merciboi@gmail.com
 
 # ⚡ My Tech Stack
-Git, GitHub, GitLab, Linux, AWS, Docker, Synk, Kubernetes, Rancher, Jenkins, Ansible, Terraform, Prometheus, Grafana, EFK/ELK, Python, C, Go, MD, Flask, Django,
-MySQL, VS Code, GitHub Actions, FluxCD, Hashicorp Vault, Post, Jira, SonarQube, Sonatype Nexus, Nginx, Maven, Tomcat
+Git, GitHub, GitLab, Linux, AWS, Docker, Synk, Kubernetes, Rancher, Jenkins, Ansible, Terraform, Prometheus, Grafana, DataDog, Nagios, EFK/ELK, Hashicorp Vault, AWS Cloud, Python, C, Go, MD, Flask, Django, MySQL, VS Code, GitHub Actions, FluxCD, Hashicorp Vault, Post, Jira, SonarQube, Sonatype Nexus, Nginx, Maven, Tomcat and so many others.
 
 
 

@@ -8,7 +8,7 @@ and train DevOps Engineers.
 - 👀 I’m interested in DevOps Engineering, Artificial Intelligence and Advanced Machine Learning.
 - 🌱 I’m currently learning new technologies and updates on existing ones.
 - 💞️ I’m looking to collaborate on challenging projects, work with great teams to make great impact!
-- 📫 Reach me here - dinma4merciboi@gmail.com
+- 📫 Reach me here - info@merciboi.com
 
 # ⚡ My Tech Stack
 Git, GitHub, GitLab, Linux, AWS, Docker, Synk, Kubernetes, Rancher, Jenkins, Ansible, Terraform, Prometheus, Grafana, DataDog, Nagios, EFK/ELK, Hashicorp Vault, AWS Cloud, Python, C, Go, MD, Flask, Django, MySQL, VS Code, GitHub Actions, FluxCD, Hashicorp Vault, Post, Jira, SonarQube, Sonatype Nexus, Nginx, Maven, Tomcat and so many others.

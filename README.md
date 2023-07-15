@@ -1,10 +1,10 @@
 # Hello there! My name is Chukwudinma 
 I'm a Senior DevOps Engineer from Canada. DEVOPS AUTOMATION IS MY PASSION. I have worked and still work as a DevOps Engineer, Build Release Engineer, Site Reliability Engineer,
 and Platform/Cloud Engineer. I have been involved in various projects for diverse clients - FinTech and others. Highly experienced with entire DevOps processes.
-Highly proficient in Devops tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc; and vast knowledge and application of AWS cloud. I coach and mentor team members
-and train DevOps Engineers.
+Highly proficient in Devops tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc; and vast knowledge and application of AWS cloud. I coach and mentor team members and train DevOps Engineers.
 
 - 👋 Hi, I’m @DinmaMerciBoi
+- 👋 Technical Lead @ Merciboi Systems Solutions
 - 👀 I’m interested in DevOps Engineering, Artificial Intelligence and Advanced Machine Learning.
 - 🌱 I’m currently learning new technologies and updates on existing ones.
 - 💞️ I’m looking to collaborate on challenging projects, work with great teams to make great impact!
